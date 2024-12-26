@@ -1,0 +1,15 @@
+<page_conf>
+    <ipp>3</ipp>
+    <caption_file>./captions/captions.txt</caption_file>
+    <imgs_folder>./images/</imgs_folder>
+</page_conf>
+
+
+
+{
+  "page_conf": {
+    "ipp": 3,
+    "caption_file": "./captions/captions.txt",
+    "imgs_folder": "./images/"
+  }
+}
